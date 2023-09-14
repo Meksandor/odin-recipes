@@ -10,14 +10,9 @@ h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.row {
-    display: flex;
-}
-
-.column {
-    /*Align Images Side By Side*/
-    flex: 33.33%;
-    padding: 5px;
+.row, img{
+    display: inline;
+    width: 32%;
 }
 
 .timereq {
@@ -26,5 +21,5 @@ h1 {
 
 ul, ol {
     text-align: center;
-list-style-type: none;
+    list-style-type: none;
 }

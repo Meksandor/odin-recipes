@@ -13,7 +13,10 @@ h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-
+.row , img{
+    display: inline;
+    width: 24%;
+}
 
 
 

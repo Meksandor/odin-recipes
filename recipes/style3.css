@@ -14,7 +14,10 @@ h1 {
 }
 
 
-
+.row,img {
+    display: inline;
+    width: 24%;
+}
 
 
 
