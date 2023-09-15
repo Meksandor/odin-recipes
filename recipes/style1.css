@@ -1,25 +1,82 @@
 body {
     background-color: rgb(200, 228, 178);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;
     font-size: 150%;
+    margin: 0 auto;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 12px auto;
 }
 
+.actualcontent {
+    border: 10px darkblue;
+    background-color: #EEE0C9;
+    padding: 10px;
+    margin: 20px;
+}
+
+/*rgb(200, 228, 178)*/
+
 h1 {
-    text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.row, img{
+.row,
+img {
     display: inline;
     width: 32%;
 }
 
-.timereq {
-    text-align: center;
+
+ul,
+ol {
+    list-style-type: none;
 }
 
-ul, ol {
-    text-align: center;
-    list-style-type: none;
+.nutri li {
+    display: inline-block;
+    background-color: aliceblue;
+    padding: 2px;
+    width: 260px;
+    height: 70px;
+    padding: 8px 0px 0px 0px;
+}
+
+span {
+    display: block;
+}
+
+
+.othernutri li {
+    display: block;
+    padding: 5px;
+    margin: 12px auto;
+    background-color: antiquewhite;
+    width: 270px;
+    height: 30px;
+}
+
+.nutri .macro {
+    margin: 12px;
+}
+
+#calori {
+    background-color: beige
+}
+
+#carb {
+    background-color: #9dc2ba;
+}
+
+#protein {
+    background-color: #fc905b;
+}
+
+#fat {
+    background-color: #ffcc5c;
+}
+
+#sugar {
+    background-color: lightblue
 }

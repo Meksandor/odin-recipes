@@ -1,0 +1,100 @@
+[33mcommit 429c304f4d1ed3c3e5f792fa01a56032b4dbc6f2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Meksandor <84075199+Meksandor@users.noreply.github.com>
+Date:   Thu Sep 14 13:40:40 2023 +0300
+
+    Edit the positioning the images in recipe pages
+    
+    I changed the way I position the iamges after the lessons of "The Box Model"
+    and "Block and Inline".
+
+[33mcommit d933b9fc141cb85983b908092d76992271c8ac77[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Meksandor <84075199+Meksandor@users.noreply.github.com>
+Date:   Sun Aug 27 18:52:54 2023 +0300
+
+    Complete editing oyakodon and summer_fruit_salad with basic CSS
+
+[33mcommit 80d648ace9c08106e6c7917660576a3efad67bcc[m
+Author: Meksandor <84075199+Meksandor@users.noreply.github.com>
+Date:   Sun Aug 27 11:53:40 2023 +0300
+
+    Complete editing asian_beef_slaw page with basic CSS
+
+[33mcommit 1be382fbd89896b713138b6bcef645fefe32d132[m
+Author: Meksandor <84075199+Meksandor@users.noreply.github.com>
+Date:   Sun Aug 27 11:31:23 2023 +0300
+
+    Align Images Side By Side with new CSS code
+    
+    I used a new CSS code which is flexbox. I did not learned this yet but
+    I choose to use to make my web page better.
+
+[33mcommit 6d61d32f10fa0f2a8b2651551cc7b4286ebab0c1[m
+Author: Meksandor <84075199+Meksandor@users.noreply.github.com>
+Date:   Sun Aug 27 10:50:40 2023 +0300
+
+    Edit the main index page with CSS
+    
+    First time used CSS to edit the main index page to
+    look better for It's new design.
+
+[33mcommit 8114e8b155e252100a5a49929cfa2602f9d1c6e8[m
+Author: Meksandor <84075199+Meksandor@users.noreply.github.com>
+Date:   Fri Aug 25 10:40:15 2023 +0300
+
+    Create new recipe page and link It to main index page end
+    of the odin_recipes project according to basic instructions
+    
+    Created a new recipe page called Oyakodon (Japanese Chicken and Egg Rice Bowl)
+    and linked It to the main index page. Project completed for now but
+    will be waiting for the next upgrades and layouts.
+
+[33mcommit 75c48bef7d7cb003fffebbef46353cff89766cfb[m
+Author: Meksandor <84075199+Meksandor@users.noreply.github.com>
+Date:   Fri Aug 25 10:26:34 2023 +0300
+
+    Link recipe page to main index page
+    
+    Linked an another recipe page called Perfect Summer Fruit Salad to main
+    index page
+
+[33mcommit c8accb98efd4e9d921fe097724858291d7f5905d[m
+Author: Meksandor <84075199+Meksandor@users.noreply.github.com>
+Date:   Fri Aug 25 10:21:34 2023 +0300
+
+    Create a recipe page
+    
+    Created an another recipe page called Perfect Summer Fruit Salad. Named
+    this pages html file summer_fruit_salad.html
+
+[33mcommit a361459a3f026295fe0c14f4037173dbbcd0e1d3[m
+Author: Meksandor <84075199+Meksandor@users.noreply.github.com>
+Date:   Fri Aug 25 10:02:09 2023 +0300
+
+    Content HTML structure change
+    
+    At the first recipe page made a change for Directions part to structure
+    the HTML code according to Odin curriculum. Both my way and curriculum
+    are acceptable but I follow the curriculum.
+
+[33mcommit b470eb8466dc1647b3675253ec15fa04fb1adc45[m
+Author: Meksandor <84075199+Meksandor@users.noreply.github.com>
+Date:   Fri Aug 25 09:56:57 2023 +0300
+
+    Add a new recipe page
+    
+    Added a new recipe page called Addictive Asian Beef Slaw
+    and linked It to the index main page
+
+[33mcommit ba98c1d7c2994b93af2a72fc8398395b05ea13fa[m
+Author: Meksandor <84075199+Meksandor@users.noreply.github.com>
+Date:   Fri Aug 25 09:22:34 2023 +0300
+
+    Usual HTML boilerplate is done
+    
+    Added a tittle and a h1 heading
+
+[33mcommit c4d3a737b8bb09c3ca13a4d97fedd5107d49b420[m
+Author: Meksandor <84075199+Meksandor@users.noreply.github.com>
+Date:   Fri Aug 25 09:09:49 2023 +0300
+
+    Initial commit
