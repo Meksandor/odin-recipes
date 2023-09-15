@@ -34,6 +34,18 @@ ol {
     list-style-type: none;
 }
 
+.timereq p1 {
+    display: inline-block;
+    margin: 10px auto 0px auto;
+    padding: 0px 10px 10px 10px;
+    background-color: #DAC0A3;
+}
+
+.timereq .timename {
+    display: block;
+    margin: 10px auto;
+}
+
 .nutri li {
     display: inline-block;
     background-color: aliceblue;

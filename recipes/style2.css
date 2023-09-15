@@ -17,6 +17,18 @@ the whole body there is no extra code required*/
     margin: 20px;
 }
 
+.timereq p1 {
+    display: inline-block;
+    margin: 10px auto 0px auto;
+    padding: 0px 10px 10px 10px;
+    background-color: #DAC0A3;
+}
+
+.timereq .timename {
+    display: block;
+    margin: 10px auto;
+}
+
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
